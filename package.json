@@ -1,0 +1,29 @@
+{
+  "name": "webpack-bug01",
+  "version": "1.0.0",
+  "description": "Demo bug in Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongphuhiep/webpack-bug01.git"
+  },
+  "keywords": [
+    "webpack",
+    "bug"
+  ],
+  "author": "hiep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duongphuhiep/webpack-bug01/issues"
+  },
+  "homepage": "https://github.com/duongphuhiep/webpack-bug01#readme",
+  "dependencies": {
+    "commonmark": "^0.24.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.13"
+  }
+}
